@@ -6,9 +6,14 @@ Initialize your repository with a README, and write your analysis of Deliverable
 Deliverable 2 Instructions
 For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
-Overview of Project: Explain the purpose of this analysis.
-Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Overview of Project: Purpose of the analysis
+
+## Results: Webpage uses
+Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+
+## Summary: Drawbacks & Recommendations
+One drawback of this new design and two recommendations for further development.
+
 Deliverable 2 Requirements
 Structure, Organization, and Formatting (8 points)
 The written analysis has the following structure, organization, and formatting:
