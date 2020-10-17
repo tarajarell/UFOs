@@ -1,37 +1,16 @@
 # UFOs
 
-Deliverable 2: A written report on the UFO analysis (README.md) (20 points)
-Initialize your repository with a README, and write your analysis of Deliverable 1.
-
-Deliverable 2 Instructions
-For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
-
 ## Overview of Project: Purpose of the analysis
+McMinnville, Oregon has extensive information to be found related to UFO sightings and other paranormal phenomena. It isn't the only place, though. This website has compiled the list of various sightings all over the world, and offers search filters for users to hone in on areas or places of intrest. 
 
 ## Results: Webpage uses
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+This webpage is dynamic and user friendly.
+![Drag Racing](Dragster.jpg)
+In order to maximize its ability to sift through tall of the sightings data, enter filter criteria into at least one of the parameters (Date, City, State, Country, & Shape).
+![Drag Racing](Dragster.jpg)
+Then, click "Enter" and the filter(s) will apply, while updating the results on the right side of it.
 
 ## Summary: Drawbacks & Recommendations
-One drawback of this new design and two recommendations for further development.
-
-Deliverable 2 Requirements
-Structure, Organization, and Formatting (8 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple paragraphs. (2 pt)
-Each paragraph has a heading. (2 pt)
-There are subheadings to break up text. (2 pt)
-Images are formatted and displayed where appropriate. (2 pt)
-Analysis (12 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose is well defined (2 pt)
-Results:
-
-There is a description of how to perform a search, with images. (4 pt)
-Summary:
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+One drawback of this new design is that you only get limited information from the filter searches. While having Date, City, State, Country, Shape, Duration, and Comments is helpful information, it is somewhat lacking. The following two recommendations address this drawback:
+1. Provide a link to additional information on the sightings in the Comments area.
+2. Provide a link to the Worlde UFO Day mentioned in the opening paragraphs above the data.
