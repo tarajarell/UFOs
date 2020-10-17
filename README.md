@@ -12,7 +12,7 @@ In order to maximize its ability to sift through tall of the sightings data, ent
 
 ![https://github.com/tarajarell/UFOs/blob/master/static/images/Filters.jpg](https://github.com/tarajarell/UFOs/blob/master/static/images/Filters.jpg)
 
-Then, click "Enter" and the filter(s) will apply, while updating the results on the right side of it.
+Then, click "Enter" and the filter(s) will apply, while updating the results on the right side of the page.
 
 ## Summary: Drawbacks & Recommendations
 One drawback of this new design is that you only get limited information from the filter searches. While having Date, City, State, Country, Shape, Duration, and Comments is helpful information, it is somewhat lacking. The following two recommendations address this drawback:
